@@ -2,7 +2,7 @@ name: docker-compose
 
 on:
   push:
-    branches: master
+    branches: main
 
 jobs:
   login:
